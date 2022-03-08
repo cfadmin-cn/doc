@@ -1,0 +1,33 @@
+{
+  "title": "cfadmin - 高级指南 | Lua Web 开发 | 异步模型 | 高性能 | 高并发",
+  "author": "水果糖的小铺子",
+  "language":"zh-hans",
+  "plugins": [
+    "code",
+    "sitemap",
+    "splitter",
+    "-search",
+    "search-pro",
+    "highlight",
+    "tbfed-pagefooter",
+    "back-to-top-button"
+  ],
+  "pluginsConfig": {
+    "tbfed-pagefooter": {
+      "copyright": "Copyright &copy CandyMi 2019-2022",
+      "modify_label": "该文件修订时间: ",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "sitemap": {
+      "hostname": "https://doc.cfadmin.cn"
+    },
+    "code": {
+      "copyButtons": false
+    }
+  },
+  "style":{
+  },
+  "structure": {
+    "readme": "README.md"
+  }
+}
