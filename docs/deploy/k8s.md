@@ -15,11 +15,15 @@
 ## 二、效果图
 
 ---
+<div>
 
-  <img src="/images/k8s-1.png" width="1400"></img>
+<figure>
+  <img src="images/k8s-1.png" width="1400"></img>
 
 
-  <img src="/images/k8s-2.png" width="1400"></img>
+  <img src="images/k8s-2.png" width="1400"></img>
 
 
-  <img src="/images/k8s-3.png" width="1400"></img>
+  <img src="images/k8s-3.png" width="1400"></img>
+</figure>
+</div>
