@@ -50,13 +50,25 @@
 
 ---
 
-  现在我们可以尝试在浏览器中打开`http://localhost:8080/admin`就会显示登录页面. (账号/密码:`admin`)
+现在我们可以尝试在浏览器中打开`http://localhost:8080/admin`就会显示登录页面. (账号/密码:`admin`)
+<div>
+  <figure style="text-align: center;">
+    <img src="images/pre-login.png"></img>
+  </figure>
+</div>
 
-  <img src="/images/pre-login.png"></img>
+<div>
+  <figure style="text-align: center;">
+    <img src="images/pre-dashboard.png"></img>
+  </figure>
+</div>
 
-  <img src="/images/pre-dashboard.png"></img>
+<div>
+  <figure style="text-align: center;">
+    <img src="images/pre-profile.png"></img>
+  </figure>
+</div>
 
-  <img src="/images/pre-profile.png"></img>
 
 ## 二、疑问解答
 
