@@ -1,7 +1,9 @@
 <!-- 首页样式文件 -->
 
-<div style="text-align: center;">
-  <img src="/images/logo.png">
+<div style="display: center;">
+  <figure>
+    <img src="images/logo.png">
+  <figure>
 </div>
 
 <div class="row py-3 mb-5">
