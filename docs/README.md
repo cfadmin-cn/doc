@@ -1,7 +1,7 @@
 <!-- 首页样式文件 -->
 
 <div style="text-align: center;">
-  <figure>
+  <figure style="text-align: center;">
     <img src="images/logo.png">
   <figure>
 </div>
