@@ -16,10 +16,10 @@
 
 ---
 
-  <img src="/images/k8s-1.png" width="800"></img>
+  <img src="/images/k8s-1.png" width="1400"></img>
 
 
-  <img src="/images/k8s-2.png" width="800"></img>
+  <img src="/images/k8s-2.png" width="1400"></img>
 
 
-  <img src="/images/k8s-3.png" width="800"></img>
+  <img src="/images/k8s-3.png" width="1400"></img>
