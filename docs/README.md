@@ -1,6 +1,6 @@
 <!-- 首页样式文件 -->
 
-<div style="display: center;">
+<div style="text-align: center;">
   <figure>
     <img src="images/logo.png">
   <figure>
