@@ -29,7 +29,7 @@
     - [xml](library/xml.md)
     - [crypt](library/crypt.md)
     - [mq](library/mq.md)
-    - [database](library/database.md)
+    - [database](library/db.md)
     - [cache](library/cache.md)
     - [aio](library/aio.md)
     - [sys](library/sys.md)
